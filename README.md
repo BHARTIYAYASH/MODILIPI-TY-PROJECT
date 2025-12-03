@@ -30,7 +30,7 @@ graph TD
 | **Stage 2 Code** | Punctuation Restoration implementation. | [Colab Notebook](#) |
 | **Stage 3 Code** | Grammar Correction & Dictionary Logic. | [Colab Notebook](#) |
 
-CORRECT LINKS ALREADY IN THE SHARED REPORT
+# CORRECT LINKS ALREADY IN THE SHARED REPORT
 
 ## 🛠️ Methodology by Stage
 
